@@ -2,7 +2,6 @@ import "./App.css";
 import { Calendrier } from "./components/Calendrier";
 import { MantineProvider } from "@mantine/core";
 import "@mantine/core/styles.css";
-import { PixelArt } from "./components/PixelArt";
 
 const fullWords: { [key: string]: string } = {
   Mon: "Monday",
