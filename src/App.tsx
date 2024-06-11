@@ -27,7 +27,7 @@ function App() {
     <MantineProvider>
       <>
         <h1> Training Schedule </h1>
-        <h2>Agathe & Emil</h2>
+        <h2 style={{ fontFamily: "fantasy" }}>Agathe & Emil</h2>
         <h4>{today}</h4>
 
         <div>
